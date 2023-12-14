@@ -45,13 +45,13 @@ B. ALARMS APPENDIX Alarm 16i 30i Description Cause The first feed override is in
 
 Questions:
 
-1.What should I do when I receive warning number 3062?
-2.What should I do when I receive warning number 3562?
+1. What should I do when I receive warning number 3062?
+2. What should I do when I receive warning number 3562?
 
 Answers:
 
 1. Cause: The first feed override is invalid.Action: A value not specifiable as turning or other first feed overrides is entered. Modify the machining program to specify an appropriate value.
-2. 2. Cause: The first feed override is invalid.Action: A value not specifiable as turning or other first feed overrides is entered. Modify the machining program to specify an appropriate value.
+2. Cause: The first feed override is invalid.Action: A value not specifiable as turning or other first feed overrides is entered. Modify the machining program to specify an appropriate value.
 
 Now, please write questions and answers based on the context below.
 
