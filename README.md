@@ -85,6 +85,7 @@ There is no area that can be machined. The tool is too large for the specified m
 
 
 
-### <Prototype Image>
+### <Prototype Image 1>
 
-![image](https://github.com/seongwoocho1942/ManualGPT/assets/120255872/99e7bea4-7227-4df2-94f8-628f60551ff1)
+![image](https://github.com/seongwoocho1942/ManualGPT/assets/120255872/bdc70f2c-0dd3-44a1-b324-a3503a02b075)
+
