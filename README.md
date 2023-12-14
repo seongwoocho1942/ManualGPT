@@ -33,7 +33,9 @@ The bottom size/angle is determined for turning when [WIDTH] is specified by the
 ### <Prompt 3>
 You will be provided with an example that contains a context, a question, and an answer. Please make some questions and answers based on this example.
 
-The number of questions and answers cannot be less than the number of warning numbers.You will first be provided with an example. Consider this example:
+The number of questions and answers cannot be less than the number of warning numbers.
+
+You will first be provided with an example. Consider this example:
 
 Context:
 
