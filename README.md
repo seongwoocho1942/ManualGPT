@@ -61,3 +61,22 @@ Context:{context}
 
 Questions:
 1. 
+
+
+
+### <DATA example 2>
+
+Q: 
+I received an alarm says, "An arbitrary figure is not closed." What should I check when this warning occurs?
+A: 
+An arbitrary figure entered for facing, pocketing, or turning is not closed. Modify the machining program to specify a closed figure that uses the same point both as the start and end points.
+
+
+
+### <Data example 3>
+
+
+Q: 
+I would like to ask a question about MANUAL GUIDE i of FANUC. I received a warning number 3503. What should I do about this?
+A: 
+There is no area that can be machined. The tool is too large for the specified machining area. Modify the machining program to use a smaller tool.
