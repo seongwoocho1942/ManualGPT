@@ -8,6 +8,7 @@ Context:{context}
 Questions:1.
 
 
+
 ### Prompt2
 Here are some questions that may arise using a machine equipped with FANUC MANUAL GUIDE i. A part of the manual book will be provided. Please answer to the questions based on the context below.
 
